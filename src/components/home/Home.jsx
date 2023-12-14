@@ -46,8 +46,8 @@ const Home = () => {
           Explore Menu
         </motion.a>
       </section>
-      {/* <Menu /> */}
-      {/* <Founder /> */}
+      <Menu />
+      <Founder />
     </>
   );
 };
